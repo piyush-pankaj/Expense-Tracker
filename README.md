@@ -1,4 +1,3 @@
-````markdown
 # 💰 Expense Tracker (Python OOP Project)
 
 A simple **Command Line Expense Tracker** built using **Python** and **Object-Oriented Programming (OOP)** concepts. This application allows users to record incomes and expenses, search transactions by category, generate monthly summaries, and save/load records using CSV files.
@@ -187,5 +186,4 @@ Data Science Consultant | Python Trainer | AI & Machine Learning Enthusiast
 
 ## 📜 License
 
-This project is open-source and available under the **MIT License**.
-````
+This project is open-source and available under the **MIT License**
